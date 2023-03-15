@@ -1,2 +1,2 @@
 #!/bin/bash
-alias ls='mr *'
+0-alias ls='mr *'
